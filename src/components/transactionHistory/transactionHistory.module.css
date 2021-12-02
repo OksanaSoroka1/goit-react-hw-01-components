@@ -1,0 +1,19 @@
+.table {
+  border-radius: 5px;
+  border: 1px solid rgb(131, 125, 125);
+}
+
+.table-cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 100px;
+  border: 1px solid rgb(111, 109, 112);
+}
+.head-cell {
+}
+
+.head {
+  background-color: rgb(115, 229, 233);
+}
