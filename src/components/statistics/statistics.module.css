@@ -1,0 +1,30 @@
+.section {
+  max-width: 600px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgb(83, 210, 248);
+}
+.title {
+  font-size: 30px;
+  text-align: center;
+  padding: 25px;
+}
+.list {
+  display: flex;
+}
+.item {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.label {
+  font-size: 18px;
+  margin-bottom: 7px;
+}
+.percentage {
+  font-size: 24px;
+}
